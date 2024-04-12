@@ -62,7 +62,6 @@ export default function App() {
       </NavBar>
 
       <Main>
-        another way to
         {/* <Box element={<MovieList movies={movies} />} />
         <Box
           element={
