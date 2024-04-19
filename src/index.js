@@ -1,8 +1,8 @@
-import React, { useState } from "react";
+// import React, { useState } from "react";
+// import StarRating from "./starRating";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
-import StarRating from "./starRating";
 
 /*
 function Test() {
