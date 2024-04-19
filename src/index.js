@@ -4,6 +4,7 @@ import "./index.css";
 import App from "./App";
 import StarRating from "./starRating";
 
+/*
 function Test() {
   const [movieRating, setMovieRating] = useState(0);
 
@@ -14,6 +15,7 @@ function Test() {
     </>
   );
 }
+*/
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
