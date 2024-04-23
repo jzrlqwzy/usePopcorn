@@ -2,7 +2,7 @@
 
 ## Overview
 
-usePopcorn is a React-based application that provides users with a way to explore and rate movies, users can also manage their watched movies list. By leveraging the OMDB API, the app gains access to an extensive movie database, allowing users to quickly and easily find movie information, including genre, cast, director, ratings, and much more. Designed to provide an interactive and user-friendly platform for movie enthusiasts to discover
+A React-based application that provides users with a way to explore and rate movies, users can also manage their watched movies list. By leveraging the OMDB API, the app gains access to an extensive movie database, allowing users to quickly and easily find movie information, including genre, cast, director, ratings, and much more. Designed to provide an interactive and user-friendly platform for movie enthusiasts to discover.
 
 ## Main Features
 
